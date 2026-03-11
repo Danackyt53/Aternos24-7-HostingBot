@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "Playersz23",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "tigerandpixie.aternos.me",
-    "port": 19512,
+    "port":19512,
     "version": "",
     "try-creative": false
   },
